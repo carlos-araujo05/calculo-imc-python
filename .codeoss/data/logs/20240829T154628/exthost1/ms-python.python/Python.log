@@ -1,0 +1,107 @@
+2024-08-29 15:46:52.812 [info] Default formatter is set to null for workspace /home/valdircarlos2005
+2024-08-29 15:46:52.812 [info] Test server listening.
+2024-08-29 15:46:52.812 [info] Python interpreter path: /bin/python
+2024-08-29 15:46:53.002 [info] > pyenv which python
+2024-08-29 15:46:53.002 [info] cwd: .
+2024-08-29 15:46:54.889 [info] Starting Jedi language server for valdircarlos2005.
+2024-08-29 15:47:08.420 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:13.245 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:14.942 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:17.458 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:21.213 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:26.488 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:28.093 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:29.722 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:38.659 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:40.473 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:45.210 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:47:50.584 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:17.282 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:25.086 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:28.461 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:33.541 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:35.153 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:36.360 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:38.818 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:42.395 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:46.539 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:54.109 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:56.123 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:48:59.231 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:06.574 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:07.888 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:15.973 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:19.334 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:22.972 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:27.320 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:29.449 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:32.359 [info] CreateEnv Trigger - Skipping for /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:49:32.389 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:50:50.788 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:50:57.989 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:50:59.598 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:51:12.928 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:51:16.143 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:51:34.096 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:12.722 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:18.639 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:19.951 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:21.168 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:26.908 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:34.325 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:39.106 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:53:44.487 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:54:29.239 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:54:35.796 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:54:51.483 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:54:53.922 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:04.437 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:06.150 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:13.335 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:14.904 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:19.152 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:24.014 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:28.878 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:30.475 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:32.479 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:36.311 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:55:36.386 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:56:14.758 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:56:28.236 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:56:30.087 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:56:30.142 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:58:35.712 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:58:42.945 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:58:46.550 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:58:49.471 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:58:54.702 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:23.390 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:24.794 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:27.713 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:33.823 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:38.035 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 15:59:41.948 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:00:38.963 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:00:40.635 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:00:43.135 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:00:49.189 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:01:16.275 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:01:21.784 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:01:26.274 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:01:54.059 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:01:55.715 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:02:02.255 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:02:17.540 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:02:20.503 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:02:24.187 [info] Send text to terminal: /bin/python /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:02:38.520 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:03:55.642 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:04:12.534 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:04:50.825 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc.py
+2024-08-29 16:06:41.278 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:06.321 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:11.205 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:13.639 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:16.885 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:18.498 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
+2024-08-29 16:08:36.543 [info] Discover tests for workspace name: valdircarlos2005 - uri: /home/valdircarlos2005/calculo-imc-tkinter.py
