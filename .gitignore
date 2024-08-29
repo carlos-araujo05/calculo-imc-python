@@ -3,6 +3,7 @@ go
 .bashrc
 .profile
 .bash_logout
+.bash_history
 .sudo_as_admin_successful
 
 # Diretórios de configuração e cache locais
@@ -22,3 +23,4 @@ go
 /npm*
 /.config*
 /.cache*
+.lesshst
