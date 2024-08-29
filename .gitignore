@@ -1,0 +1,17 @@
+.bashrc
+.profile
+.bash_logout
+.config/
+.local/
+.cache/
+.cloudshell/
+.npm/
+.ssh/
+.sudo_as_admin_successful
+/.vscode
+/.npm*
+/.local
+/.docker
+/.config*
+/.codeoss
+/.cache
