@@ -1,17 +1,24 @@
+go
+# Arquivos de configuração do shell
 .bashrc
 .profile
 .bash_logout
+.sudo_as_admin_successful
+
+# Diretórios de configuração e cache locais
 .config/
 .local/
 .cache/
-.cloudshell/
 .npm/
 .ssh/
-.sudo_as_admin_successful
-/.vscode
-/.npm*
-/.local
-/.docker
+.docker/
+.cloudshell/
+
+# Diretórios e arquivos específicos de editores/IDEs
+.vscode
+.codeoss
+
+# Outros arquivos e diretórios indesejados
+/npm*
 /.config*
-/.codeoss
-/.cache
+/.cache*
